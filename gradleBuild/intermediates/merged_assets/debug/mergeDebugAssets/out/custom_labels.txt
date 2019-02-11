@@ -1,0 +1,9 @@
+telephone
+bicycle
+computer
+clothes
+bag
+shoes
+toy
+book
+perfume

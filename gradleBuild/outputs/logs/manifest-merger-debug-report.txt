@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:16:1-61:12
+MERGED from [org.tensorflow:tensorflow-android:1.13.0-rc0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.13.0-rc0.aar\c8e5b301ab5df957152f13b6e644d356\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9f2dc31d31a205148151d1c8a1757c20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25b3b8834915705afd0e2df5574c2894\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c0a5239c039e4c02ed97befda5e436b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2f1aa842b598ed0c2eea59a35d524099\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3fe0545d0910b2dcb3546907b795e9c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f49f11de83cc7a303b0c0ea04923bbe2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f85d3974476d5da5bf555689a64ee7ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a3b8ecb23b35e8c9d257483c6918a948\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d2cb2804926383c494f03ca0b3e31137\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f7b7e0f741d08c9290afa9a0472e31f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8e1520f816618a69a82cbec5e1f6fd7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e644bfa4baae36c74fa45df6399cb494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad273935031befe845452c728305c9fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\951c6bf2fefccd9cdcedb7013252dd5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c3a7d05005530d92c47d2863207270b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39a4339e09912b11942ea765f4568d9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7ecf8ca8c8695e786b16d5420a67d9e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\665348a77b980efec9deb0f450c86e35\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\82c0dbea48036d6d20b82d4b1b81e88b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\786bd61837dd8bb9192680e8de40f877\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\dfd491d9f9409905d4308abe086e5419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\262aceff857d8397734070fc327fa848\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\81b8d7ab139d1224398e9fac6f74bdaa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f9e5aa6d6df8e1a382b0a231fc0bbbc8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2c4befd70ea84c0230b9064da447dddb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98a25fcc2cc9409790e028447e827a6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\98708d165953b20cc2876ee37c7cd23d\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:18:5-41
+	xmlns:tools
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:17:5-51
+	xmlns:android
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:16:11-69
+	tools:ignore
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:19:5-46
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:29:9-57
+uses-feature#android.software.leanback
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:32:9-49
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:36:5-71
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:36:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:37:5-75
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:37:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:38:22-77
+application
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:41:5-59:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.0-rc0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.13.0-rc0.aar\c8e5b301ab5df957152f13b6e644d356\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.0-rc0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.13.0-rc0.aar\c8e5b301ab5df957152f13b6e644d356\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25b3b8834915705afd0e2df5574c2894\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25b3b8834915705afd0e2df5574c2894\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39a4339e09912b11942ea765f4568d9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39a4339e09912b11942ea765f4568d9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7ecf8ca8c8695e786b16d5420a67d9e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7ecf8ca8c8695e786b16d5420a67d9e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39a4339e09912b11942ea765f4568d9\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:45:9-41
+	android:debuggable
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:43:9-34
+	tools:ignore
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:47:9-58
+	android:icon
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:44:9-38
+	android:allowBackup
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:42:9-35
+	android:theme
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:46:9-45
+activity#com.dipesh.objectdetection.DetectorActivity
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:48:9-58:20
+	android:screenOrientation
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:49:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:52:13-57:29
+action#android.intent.action.MAIN
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:55:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:56:17-86
+	android:name
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml:56:27-83
+uses-sdk
+INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9f2dc31d31a205148151d1c8a1757c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9f2dc31d31a205148151d1c8a1757c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25b3b8834915705afd0e2df5574c2894\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25b3b8834915705afd0e2df5574c2894\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c0a5239c039e4c02ed97befda5e436b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c0a5239c039e4c02ed97befda5e436b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2f1aa842b598ed0c2eea59a35d524099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2f1aa842b598ed0c2eea59a35d524099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3fe0545d0910b2dcb3546907b795e9c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3fe0545d0910b2dcb3546907b795e9c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f49f11de83cc7a303b0c0ea04923bbe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f49f11de83cc7a303b0c0ea04923bbe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f85d3974476d5da5bf555689a64ee7ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f85d3974476d5da5bf555689a64ee7ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a3b8ecb23b35e8c9d257483c6918a948\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a3b8ecb23b35e8c9d257483c6918a948\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d2cb2804926383c494f03ca0b3e31137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d2cb2804926383c494f03ca0b3e31137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f7b7e0f741d08c9290afa9a0472e31f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f7b7e0f741d08c9290afa9a0472e31f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8e1520f816618a69a82cbec5e1f6fd7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8e1520f816618a69a82cbec5e1f6fd7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e644bfa4baae36c74fa45df6399cb494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e644bfa4baae36c74fa45df6399cb494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad273935031befe845452c728305c9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad273935031befe845452c728305c9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\951c6bf2fefccd9cdcedb7013252dd5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\951c6bf2fefccd9cdcedb7013252dd5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c3a7d05005530d92c47d2863207270b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c3a7d05005530d92c47d2863207270b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39a4339e09912b11942ea765f4568d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39a4339e09912b11942ea765f4568d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7ecf8ca8c8695e786b16d5420a67d9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7ecf8ca8c8695e786b16d5420a67d9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\665348a77b980efec9deb0f450c86e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\665348a77b980efec9deb0f450c86e35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\82c0dbea48036d6d20b82d4b1b81e88b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\82c0dbea48036d6d20b82d4b1b81e88b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\786bd61837dd8bb9192680e8de40f877\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\786bd61837dd8bb9192680e8de40f877\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\dfd491d9f9409905d4308abe086e5419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\dfd491d9f9409905d4308abe086e5419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\262aceff857d8397734070fc327fa848\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\262aceff857d8397734070fc327fa848\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\81b8d7ab139d1224398e9fac6f74bdaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\81b8d7ab139d1224398e9fac6f74bdaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f9e5aa6d6df8e1a382b0a231fc0bbbc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f9e5aa6d6df8e1a382b0a231fc0bbbc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2c4befd70ea84c0230b9064da447dddb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2c4befd70ea84c0230b9064da447dddb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98a25fcc2cc9409790e028447e827a6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98a25fcc2cc9409790e028447e827a6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\98708d165953b20cc2876ee37c7cd23d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dipes\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\98708d165953b20cc2876ee37c7cd23d\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+		INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+		ADDED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
+		INJECTED from D:\Android books\AndroidProjects\Yolo-Android\android\AndroidManifest.xml
