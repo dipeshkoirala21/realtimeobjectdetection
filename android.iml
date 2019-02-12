@@ -78,32 +78,20 @@
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/android-profile" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/generated/not_namespaced_r_class_sources" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/generated/source/r" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/annotation_processor_list" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/apk_list" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/blame" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/build-info" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/bundle_manifest" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/check_manifest_result" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/classes" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/compatible_screen_manifest" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/dex" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/incremental" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/incremental-classes" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/incremental-runtime-classes" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/incremental-verifier" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/instant-run-resources" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/instant-run-support" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/instant_app_manifest" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/instant_run_merged_manifests" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/javaPrecompile" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/javac" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/jniLibs" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/lint_jar" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/manifests" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/merged_assets" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/merged_manifests" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/metadata_feature_manifest" />
@@ -114,12 +102,9 @@
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/shader_assets" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/shaders" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/signing_config" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/split-apk" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/splits-support" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/transforms" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/outputs" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/reports" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
